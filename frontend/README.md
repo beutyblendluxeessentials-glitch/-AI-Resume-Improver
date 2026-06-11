@@ -27,9 +27,9 @@ The frontend for ResumeBoost AI is built with React, Vite, and Tailwind CSS. It 
 
 ### Installation
 
-1. Navigate to the client directory:
+1. Navigate to the frontend directory:
    ```bash
-   cd /home/team/shared/resumeboost-ai/client
+   cd /home/team/shared/resumeboost-ai/frontend
    ```
 
 2. Install dependencies:

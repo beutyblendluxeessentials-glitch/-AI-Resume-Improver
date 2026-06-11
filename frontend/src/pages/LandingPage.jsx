@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { CheckCircle, ArrowRight, Zap, Star, Shield } from 'lucide-react';
+import { CheckCircle, ArrowRight, Zap, Star, Shield, Sparkles } from 'lucide-react';
 
 const LandingPage = () => {
   return (
